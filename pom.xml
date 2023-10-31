@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>no.shhsoft</groupId>
-    <artifactId>hello</artifactId>
+    <artifactId>actions-test</artifactId>
     <version>0.0.1</version>
     <packaging>jar</packaging>
 
@@ -15,7 +15,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/sverrehu/actions-test</url>
+            <url>https://maven.pkg.github.com/sverrehu/${project.artifactId}</url>
         </repository>
     </distributionManagement>
 
