@@ -15,7 +15,7 @@
         <repository>
             <id>github</id>
             <name>GitHub Packages</name>
-            <url>https://maven.pkg.github.com/sverrehu/${project.artifactId}</url>
+            <url>https://maven.pkg.github.com/sverrehu/actions-test</url>
         </repository>
     </distributionManagement>
 
